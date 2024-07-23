@@ -1,13 +1,8 @@
-
-import './App.css'
-import Sidebar from './pages/Sidebar'
+import "./App.css";
+import Sidebar from "./pages/CompleteLayout";
 
 function App() {
-  
-
-  return (   
-     <Sidebar/> 
-     )
+  return <Sidebar />;
 }
 
-export default App
+export default App;
